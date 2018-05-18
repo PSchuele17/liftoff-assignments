@@ -13,4 +13,5 @@ https://github.com/PSchuele17
 https://www.linkedin.com/in/patrick-schuele-51b314164/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+done
+
