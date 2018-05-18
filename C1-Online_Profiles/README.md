@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 https://github.com/PSchuele17
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/patrick-schuele-51b314164/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
